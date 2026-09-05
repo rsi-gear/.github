@@ -6,6 +6,8 @@
 
 [Website](https://rsigear.xyz) · [Discord](https://discord.gg/cZ4NBbHDk)
 
+![A robot waits safely at a Hitch Stop for a harness vehicle headed toward a snowy mountain. The model is its engine, Gear is its gear shifter, and Rear is its rear-view mirror.](https://raw.githubusercontent.com/rsi-gear/.github/main/profile/assets/gear-ecosystem-line-art.png)
+
 GEAR is an open architecture for continuous agent evolution. We are building
 the infrastructure to version agent harnesses, run reproducible evaluations,
 turn trajectories and feedback into optimization signals, and inspect every

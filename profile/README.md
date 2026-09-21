@@ -4,7 +4,7 @@
 
 **Open infrastructure for AI agents that learn from real-world experience.**
 
-[Website](https://rsigear.xyz) · [Discord](https://discord.gg/cZ4NBbHDk)
+[RSI Gear website](https://rsigear.xyz/) · [Discord](https://discord.gg/cZ4NBbHDk)
 
 ![A robot waits safely at a Hitch Stop for a harness vehicle headed toward a snowy mountain. The model is its engine, Gear is its gear shifter, and Rear is its rear-view mirror.](https://raw.githubusercontent.com/rsi-gear/.github/main/profile/assets/gear-ecosystem-line-art.png)
 
@@ -16,6 +16,9 @@ decision from experiment to deployment.
 Our current focus is harness evolution: test exact revisions under controlled
 conditions, preserve the evidence behind every result, and promote only the
 changes that earn it.
+
+Read our [recursive self-improvement (RSI) overview](https://rsigear.xyz/recursive-self-improvement)
+for the research goal, the evaluation loop, and the limits of current experiments.
 
 ## The stack
 
